@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<timezones>
+	<timezone value="GMT-04:00" label="GMT - 04:00"/>
+	<timezone value="GMT-05:00" label="GMT - 05:00"/>
+	<timezone value="GMT-06:00" label="GMT - 06:00"/>
+	<timezone value="GMT-07:00" label="GMT - 07:00"/>
+	<timezone value="GMT-08:00" label="GMT - 08:00"/>
+	<timezone value="GMT-09:00" label="GMT - 09:00"/>
+</timezones>
+

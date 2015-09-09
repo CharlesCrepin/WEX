@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<settings>
+	<languages>
+		<language label="English" value="en" />
+	</languages>
+	<language value="en" />
+	<username value="webb" />
+	<password value="12345" />
+	<title value="WEBB EXCHANGE MODULE" />
+	<host value="" />
+	<port value="" />
+	<debug value="disabled" />
+	<reloader value="disabled" />
+</settings>

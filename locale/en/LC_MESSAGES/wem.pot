@@ -1,0 +1,481 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-09-07 14:19+EDT\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: admin.py:10
+msgid "Security"
+msgstr ""
+
+#: admin.py:11
+msgid "Username"
+msgstr ""
+
+#: admin.py:12
+msgid "Password"
+msgstr ""
+
+#: admin.py:14
+msgid "Interface"
+msgstr ""
+
+#: admin.py:15
+msgid "Title"
+msgstr ""
+
+#: admin.py:17
+msgid "Service"
+msgstr ""
+
+#: admin.py:18
+msgid "Host"
+msgstr ""
+
+#: admin.py:19
+msgid "Port"
+msgstr ""
+
+#: admin.py:20
+msgid "Debug"
+msgstr ""
+
+#: admin.py:20 admin.py:21
+msgid "Enabled"
+msgstr ""
+
+#: admin.py:21
+msgid "Reloader"
+msgstr ""
+
+#: admin.py:22
+msgid "A restart of the service is needed to activate changes made in this section."
+msgstr ""
+
+#: admin.py:22
+msgid "Debug and Reloader should be disabled in production mode."
+msgstr ""
+
+#: admin.py:24
+msgid "Save"
+msgstr ""
+
+#: admin.py:25
+msgid "Cancel changes"
+msgstr ""
+
+#: admin.py:33
+msgid "Unexpected error: could not open app config file, values were not saved."
+msgstr ""
+
+#: admin.py:42
+msgid "Save successful"
+msgstr ""
+
+#: backup_restore.py:11
+msgid "Download/Upload"
+msgstr ""
+
+#: backup_restore.py:12
+msgid "Backup"
+msgstr ""
+
+#: backup_restore.py:12
+msgid "Download a copy"
+msgstr ""
+
+#: backup_restore.py:13
+msgid "Restore"
+msgstr ""
+
+#: backup_restore.py:14
+msgid "Upload"
+msgstr ""
+
+#: backup_restore.py:16
+msgid "File content"
+msgstr ""
+
+#: backup_restore.py:29
+msgid "The configuration file can not be viewed, file not found."
+msgstr ""
+
+#: backup_restore.py:40
+msgid "Unexpected error: could not open temporary configuration file, file not uploaded."
+msgstr ""
+
+#: backup_restore.py:56
+msgid "No relevant data in uploaded file, file not uploaded."
+msgstr ""
+
+#: backup_restore.py:61
+msgid "Unexpected error: could not open configuration file, file not uploaded."
+msgstr ""
+
+#: backup_restore.py:65
+msgid "A copy of your configuration file was saved as: "
+msgstr ""
+
+#: backup_restore.py:66
+msgid "Configuration file uploaded"
+msgstr ""
+
+#: backup_restore.py:71
+msgid "Invalid file content, file not uploaded."
+msgstr ""
+
+#: configure.py:15
+msgid "Save configuration"
+msgstr ""
+
+#: configure.py:16
+msgid "Cancel all changes"
+msgstr ""
+
+#: configure.py:22 configure.py:69
+msgid "Identifier"
+msgstr ""
+
+#: configure.py:23
+msgid "Language(s)"
+msgstr ""
+
+#: configure.py:24
+msgid "Context"
+msgstr ""
+
+#: configure.py:27
+msgid "Time zones file not found or empty."
+msgstr ""
+
+#: configure.py:28
+msgid "Time zone"
+msgstr ""
+
+#: configure.py:29
+msgid "Backup firmware"
+msgstr ""
+
+#: configure.py:29
+msgid "Download"
+msgstr ""
+
+#: configure.py:30
+msgid "Update firmware"
+msgstr ""
+
+#: configure.py:31
+msgid "Hostname"
+msgstr ""
+
+#: configure.py:32
+msgid "Domain name"
+msgstr ""
+
+#: configure.py:33
+msgid "Connection type"
+msgstr ""
+
+#: configure.py:34
+msgid "IP address"
+msgstr ""
+
+#: configure.py:35
+msgid "Subnet mask"
+msgstr ""
+
+#: configure.py:36
+msgid "Default gateway"
+msgstr ""
+
+#: configure.py:37
+msgid "Static DNS 1"
+msgstr ""
+
+#: configure.py:38
+msgid "Static DNS 2"
+msgstr ""
+
+#: configure.py:39
+msgid "Admin access"
+msgstr ""
+
+#: configure.py:39 configure.py:41 configure.py:44 configure.py:47
+#: configure.py:49 configure.py:60 configure.py:62 configure.py:63
+#: configure.py:64
+msgid "Enabled"
+msgstr ""
+
+#: configure.py:40
+msgid "Utility access"
+msgstr ""
+
+#: configure.py:41
+msgid "SNMP"
+msgstr ""
+
+#: configure.py:42
+msgid "Web login name"
+msgstr ""
+
+#: configure.py:43
+msgid "Web login password"
+msgstr ""
+
+#: configure.py:44
+msgid "SSH"
+msgstr ""
+
+#: configure.py:45
+msgid "SSH login name"
+msgstr ""
+
+#: configure.py:46
+msgid "SSH login password"
+msgstr ""
+
+#: configure.py:47
+msgid "Syslog"
+msgstr ""
+
+#: configure.py:48
+msgid "Max size"
+msgstr ""
+
+#: configure.py:49
+msgid "Report by mail"
+msgstr ""
+
+#: configure.py:50
+msgid "Sender"
+msgstr ""
+
+#: configure.py:51
+msgid "Receiver"
+msgstr ""
+
+#: configure.py:52
+msgid "Subject"
+msgstr ""
+
+#: configure.py:53
+msgid "SMTP server"
+msgstr ""
+
+#: configure.py:54
+msgid "SMTP"
+msgstr ""
+
+#: configure.py:55
+msgid "Log count"
+msgstr ""
+
+#: configure.py:56
+msgid "Interval"
+msgstr ""
+
+#: configure.py:57
+msgid "SMTP user"
+msgstr ""
+
+#: configure.py:58
+msgid "Proxy"
+msgstr ""
+
+#: configure.py:59
+msgid "Outbound proxy"
+msgstr ""
+
+#: configure.py:60
+msgid "Registration"
+msgstr ""
+
+#: configure.py:61
+msgid "Registration expires"
+msgstr ""
+
+#: configure.py:61
+msgid "seconds"
+msgstr ""
+
+#: configure.py:62
+msgid "Use outbound proxy"
+msgstr ""
+
+#: configure.py:63
+msgid "Send calls without registration"
+msgstr ""
+
+#: configure.py:64
+msgid "Receive calls without registration"
+msgstr ""
+
+#: configure.py:65
+msgid "CID"
+msgstr ""
+
+#: configure.py:66
+msgid "UID"
+msgstr ""
+
+#: configure.py:67
+msgid "Password"
+msgstr ""
+
+#: configure.py:68
+msgid "Dial plan"
+msgstr ""
+
+#: configure.py:69
+msgid "Global"
+msgstr ""
+
+#: configure.py:69
+msgid "Log"
+msgstr ""
+
+#: configure.py:69
+msgid "Network"
+msgstr ""
+
+#: configure.py:69
+msgid "Proxy and registration"
+msgstr ""
+
+#: configure.py:69
+msgid "Subscriber"
+msgstr ""
+
+#: configure.py:69
+msgid "Web access"
+msgstr ""
+
+#: configure.py:100
+msgid "A copy of your configuration file was saved as: "
+msgstr ""
+
+#: configure.py:103
+msgid "Unexpected error: could not open configuration file, configuration was not saved."
+msgstr ""
+
+#: configure.py:109
+msgid "Invalid combination of ip, subnet and gateway, addresses not saved."
+msgstr ""
+
+#: configure.py:140
+msgid "Configuration saved"
+msgstr ""
+
+#: configure.py:157
+msgid " was not saved because it was invalid."
+msgstr ""
+
+#: firmware.py:72
+msgid "Could not open allowed firmware filenames file, firmware not saved."
+msgstr ""
+
+#: firmware.py:76
+msgid "Firmware not saved, only filenames of the following formats are allowed:"
+msgstr ""
+
+#: firmware.py:79
+msgid "where ?.?? is the firmware version, example: 1.00."
+msgstr ""
+
+#: firmware.py:86
+msgid "The uploaded firmware version is not higher than the one previously installed."
+msgstr ""
+
+#: firmware.py:87
+msgid "A backup of the old firmware was saved"
+msgstr ""
+
+#: firmware.py:90
+msgid "Could not find the previously installed firmware file."
+msgstr ""
+
+#: global_context.py:11
+msgid "English"
+msgstr ""
+
+#: global_context.py:11
+msgid "French"
+msgstr ""
+
+#: html_template.py:23
+msgid "Firmware version"
+msgstr ""
+
+#: html_template.py:23
+msgid "Software version"
+msgstr ""
+
+#: login.py:20
+msgid "Identification"
+msgstr ""
+
+#: login.py:22
+msgid "Username"
+msgstr ""
+
+#: login.py:23
+msgid "Password"
+msgstr ""
+
+#: login.py:25
+msgid "Interface language"
+msgstr ""
+
+#: login.py:27
+msgid "Log in"
+msgstr ""
+
+#: menu.py:5
+msgid "Admin"
+msgstr ""
+
+#: menu.py:5
+msgid "Administration"
+msgstr ""
+
+#: menu.py:5 menu.py:7
+msgid "Backup/Restore"
+msgstr ""
+
+#: menu.py:5 menu.py:7
+msgid "Configure"
+msgstr ""
+
+#: menu.py:5 menu.py:7
+msgid "Go to configuration"
+msgstr ""
+
+#: menu.py:5 menu.py:7
+msgid "Log out"
+msgstr ""
+
+#: menu.py:5 menu.py:7
+msgid "View configuration file"
+msgstr ""
+
+#: wem.py:50
+msgid "The credentials supplied are not valid."
+msgstr ""
+
+#: wem.py:58
+msgid "Configuration file not found."
+msgstr ""
+
+#: wem.py:84
+msgid "Nothing was uploaded, choose a file first."
+msgstr ""
